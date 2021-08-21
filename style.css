@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.half-width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+
+
+
+.half-width img{
+    width: 100%;
+}
+
+
+
+h2{
+    font-size: 40px;
+}
+.center{
+    align-items: center;
+}
